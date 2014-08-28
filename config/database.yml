@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  database: photo_sharing_development
+
+test:
+  adapter: postgresql
+  database: photo_sharing_test
